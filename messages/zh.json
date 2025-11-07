@@ -1,0 +1,81 @@
+{
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "contact": "联系方式"
+  },
+  "home": {
+    "hero": {
+      "title": "SponteoAI",
+      "subtitle": "开发创新的AI应用",
+      "description": "上海自在纪元科技有限公司（自在纪元）专注于开发创新的AI应用产品，探索人工智能技术的无限可能。"
+    },
+    "about": {
+      "title": "关于我们",
+      "content": "SponteoAI是一家专注于AI应用开发的技术公司。我们致力于自主研发创新的AI应用产品，通过前沿的人工智能技术创造有价值的解决方案。"
+    },
+    "services": {
+      "title": "我们的方向",
+      "subtitle": "我们专注于开发各类AI应用产品",
+      "items": {
+        "custom": {
+          "title": "AI产品开发",
+          "description": "自主研发创新的AI应用产品，探索人工智能技术的实际应用场景"
+        },
+        "integration": {
+          "title": "技术创新",
+          "description": "持续关注AI技术前沿，将最新技术应用到我们的产品中"
+        },
+        "consulting": {
+          "title": "产品探索",
+          "description": "不断探索AI技术在不同领域的应用可能性，开发有价值的AI应用"
+        }
+      }
+    },
+    "contact": {
+      "title": "联系我们",
+      "email": "邮箱",
+      "domain": "网站"
+    }
+  },
+  "about": {
+    "title": "关于SponteoAI",
+    "company": {
+      "name": "公司名称",
+      "english": "SponteoAI",
+      "chinese": "上海自在纪元科技有限公司",
+      "short": "自在纪元"
+    },
+    "mission": {
+      "title": "我们的使命",
+      "content": "在SponteoAI，我们相信人工智能的变革力量。我们的使命是自主研发创新的AI应用产品，探索人工智能技术的实际应用价值，为用户创造更好的体验。"
+    },
+    "vision": {
+      "title": "我们的愿景",
+      "content": "我们致力于成为一家优秀的AI应用开发公司，通过持续的技术创新和产品迭代，开发出真正有价值的AI应用产品。"
+    }
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "我们期待您的来信",
+    "email": {
+      "label": "邮箱",
+      "value": "skye@sponteoai.com"
+    },
+    "website": {
+      "label": "网站",
+      "value": "www.sponteoai.com"
+    },
+    "form": {
+      "name": "姓名",
+      "email": "邮箱",
+      "message": "留言",
+      "send": "发送消息"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 SponteoAI. 保留所有权利。",
+    "company": "上海自在纪元科技有限公司"
+  }
+}
+

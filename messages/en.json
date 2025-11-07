@@ -1,0 +1,81 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "SponteoAI",
+      "subtitle": "Developing Innovative AI Applications",
+      "description": "Shanghai Sponteo Era Technology Co., Ltd. (Sponteo Era) focuses on developing innovative AI application products, exploring the infinite possibilities of artificial intelligence technology."
+    },
+    "about": {
+      "title": "About Us",
+      "content": "SponteoAI is a technology company focused on AI application development. We are committed to independently developing innovative AI application products and creating valuable solutions through cutting-edge artificial intelligence technologies."
+    },
+    "services": {
+      "title": "Our Direction",
+      "subtitle": "We focus on developing various AI application products",
+      "items": {
+        "custom": {
+          "title": "AI Product Development",
+          "description": "Independently develop innovative AI application products, exploring practical application scenarios of AI technology"
+        },
+        "integration": {
+          "title": "Technology Innovation",
+          "description": "Continuously follow AI technology frontiers and apply the latest technologies to our products"
+        },
+        "consulting": {
+          "title": "Product Exploration",
+          "description": "Continuously explore the application possibilities of AI technology in different fields and develop valuable AI applications"
+        }
+      }
+    },
+    "contact": {
+      "title": "Get in Touch",
+      "email": "Email",
+      "domain": "Website"
+    }
+  },
+  "about": {
+    "title": "About SponteoAI",
+    "company": {
+      "name": "Company Name",
+      "english": "SponteoAI",
+      "chinese": "Shanghai Sponteo Era Technology Co., Ltd.",
+      "short": "Sponteo Era"
+    },
+    "mission": {
+      "title": "Our Mission",
+      "content": "At SponteoAI, we believe in the transformative power of artificial intelligence. Our mission is to independently develop innovative AI application products, explore the practical application value of AI technology, and create better experiences for users."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "content": "We are committed to becoming an excellent AI application development company, developing truly valuable AI application products through continuous technological innovation and product iteration."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We'd love to hear from you",
+    "email": {
+      "label": "Email",
+      "value": "skye@sponteoai.com"
+    },
+    "website": {
+      "label": "Website",
+      "value": "www.sponteoai.com"
+    },
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send Message"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 SponteoAI. All rights reserved.",
+    "company": "Shanghai Sponteo Era Technology Co., Ltd."
+  }
+}
+
