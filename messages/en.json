@@ -8,7 +8,7 @@
     "hero": {
       "title": "SponteoAI",
       "subtitle": "Developing Innovative AI Applications",
-      "description": "Shanghai Sponteo Era Technology Co., Ltd. (Sponteo Era) focuses on developing innovative AI application products, exploring the infinite possibilities of artificial intelligence technology."
+      "description": "Shanghai Zizai Era Technology Co., Ltd. (SponteoAI) focuses on developing innovative AI application products, exploring the infinite possibilities of artificial intelligence technology."
     },
     "about": {
       "title": "About Us",
@@ -43,8 +43,8 @@
     "company": {
       "name": "Company Name",
       "english": "SponteoAI",
-      "chinese": "Shanghai Sponteo Era Technology Co., Ltd.",
-      "short": "Sponteo Era"
+      "chinese": "Shanghai Zizai Era Technology Co., Ltd.",
+      "short": "SponteoAI"
     },
     "mission": {
       "title": "Our Mission",
@@ -75,7 +75,7 @@
   },
   "footer": {
     "copyright": "© 2024 SponteoAI. All rights reserved.",
-    "company": "Shanghai Sponteo Era Technology Co., Ltd."
+    "company": "Shanghai Zizai Era Technology Co., Ltd."
   }
 }
 

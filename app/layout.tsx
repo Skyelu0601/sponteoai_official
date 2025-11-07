@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin', 'latin-ext'] });
 
 export const metadata: Metadata = {
   title: 'SponteoAI - AI Applications',
-  description: 'Shanghai Sponteo Era Technology Co., Ltd. - Developing innovative AI applications',
+  description: 'Shanghai Zizai Era Technology Co., Ltd. - Developing innovative AI applications',
 };
 
 export default function RootLayout({
