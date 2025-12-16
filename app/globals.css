@@ -94,6 +94,27 @@ body {
   text-decoration: underline;
 }
 
+.legal-card table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0 1.25rem;
+  display: block;
+  overflow-x: auto;
+}
+
+.legal-card th,
+.legal-card td {
+  border: 1px solid rgba(15, 23, 42, 0.12);
+  padding: 0.75rem 0.8rem;
+  vertical-align: top;
+  text-align: left;
+}
+
+.legal-card th {
+  background: rgba(15, 23, 42, 0.04);
+  font-weight: 600;
+}
+
 @media (max-width: 768px) {
   .legal-card {
     padding: 2rem;
