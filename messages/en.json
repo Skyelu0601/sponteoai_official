@@ -2,7 +2,8 @@
   "nav": {
     "home": "Home",
     "about": "About",
-    "contact": "Contact"
+    "contact": "Contact",
+    "support": "Support"
   },
   "home": {
     "hero": {
@@ -73,9 +74,19 @@
       "send": "Send Message"
     }
   },
+  "support": {
+    "title": "Support",
+    "subtitle": "We are here to help you get the most out of SponteoAI",
+    "email": {
+      "label": "Support Email",
+      "value": "skye@sponteoai.com"
+    },
+    "response": "We typically respond within one business day. Please share as much detail as possible so we can assist quickly.",
+    "cta": "Email Support",
+    "note": "For business inquiries or partnerships, please use the contact page."
+  },
   "footer": {
     "copyright": "© 2024 SponteoAI. All rights reserved.",
     "company": "Shanghai Zizai Era Technology Co., Ltd."
   }
 }
-

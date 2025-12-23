@@ -49,6 +49,12 @@ export default function Navigation() {
             >
               {t('contact')}
             </Link>
+            <Link 
+              href={getLocalizedPath('/support')}
+              className="text-gray-700 hover:text-primary-blue transition-colors"
+            >
+              {t('support')}
+            </Link>
             <button
               onClick={toggleLocale}
               className="px-3 py-1 rounded-md text-sm font-medium text-white bg-primary-blue hover:bg-primary-blue-dark transition-colors"
@@ -70,4 +76,3 @@ export default function Navigation() {
     </nav>
   );
 }
-

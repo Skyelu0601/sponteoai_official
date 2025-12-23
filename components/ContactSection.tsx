@@ -6,6 +6,7 @@ import { useLocale } from 'next-intl';
 export default function ContactSection() {
   const t = useTranslations('home.contact');
   const locale = useLocale();
+  const getLocalizedPath = (path: string) => `/${locale}${path}`;
 
   return (
     <section className="py-16 bg-white">
@@ -40,9 +41,16 @@ export default function ContactSection() {
               </a>
             </div>
           </div>
+          <div className="mt-8 flex justify-center">
+            <a
+              href={getLocalizedPath('/support')}
+              className="inline-flex items-center px-4 py-2 bg-primary-blue text-white rounded-lg hover:bg-primary-blue-dark transition-colors font-medium"
+            >
+              {locale === 'zh' ? '前往支持页面' : 'Visit Support Page'}
+            </a>
+          </div>
         </div>
       </div>
     </section>
   );
 }
-
