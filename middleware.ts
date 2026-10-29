@@ -8,7 +8,7 @@ const intlMiddleware = createMiddleware({
   localePrefix: 'always'
 });
 
-const publicRoutes = ['/privacy/xiaolitou', '/terms/xiaolitou'];
+const publicRoutes = ['/privacy/xiaolitou', '/terms/xiaolitou', '/apps/what-is-this-called', '/privacy/what-is-this-called', '/terms/what-is-this-called'];
 
 export default function middleware(request: NextRequest) {
   if (publicRoutes.some((route) => request.nextUrl.pathname.startsWith(route))) {
